@@ -18,4 +18,5 @@ Steps:
 6. After completing the html structure, I created a CSS file to improve the appearance of the form.
 7. The CSS file was then linked to the HTML by using the <link> tag.
 8. Then tested the code by right click on the file -> Open with live server.
-9. The code was succesfully deployed and tested.
+9. Then, I connected the github repository with vs code. 
+10. At last, the project was succesfully deployed using netlify and verified.
