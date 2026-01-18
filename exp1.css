@@ -1,0 +1,35 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#8b5ae6;
+    background-image: url("back.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    text-align: center;
+    font-size: 36px;
+}
+form{
+    width: 400px;
+    margin: auto;
+    background-color: #e6d9ff;
+    padding: 20px;
+    border-radius: 8px;
+}
+label{
+    display: block;
+    font-weight: bold;
+}
+input{
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+input[type="submit"] {
+    background-color: #6a5acd;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
